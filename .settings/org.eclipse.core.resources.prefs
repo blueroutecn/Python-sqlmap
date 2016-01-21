@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//lib/controller/action.py=utf-8
+encoding//lib/controller/checks.py=utf-8
+encoding//lib/controller/controller.py=utf-8
+encoding//lib/controller/handler.py=utf-8
+encoding//lib/core/common.py=utf-8
+encoding//lib/core/data.py=utf-8
+encoding//lib/core/datatype.py=utf-8
+encoding//lib/core/settings.py=utf-8
+encoding//lib/core/target.py=utf-8
+encoding//lib/core/threads.py=utf-8
+encoding//lib/parse/html.py=utf-8
+encoding/pyquery.py=utf-8
+encoding/sqlmap.py=utf-8
